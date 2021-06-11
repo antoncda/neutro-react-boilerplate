@@ -1,0 +1,24 @@
+Based on Shalitha boilerplate
+https://github.com/neutralinojs/neutralinojs-minimal
+
+create a react app inside neutralino app folder
+React:
+>yarn
+modify: package.json to include url/resources, modify
+>yarn build
+
+neutralinojs
+add the shell binaries to the folder
+in root folder run
+neu build //will build a distribution files in dist folder.
+
+
+//Running a distribution:
+run the below cmd on Admin access on cmd prompt:
+CheckNetIsolation.exe LoopbackExempt -a -n="Microsoft.Win32WebViewHost_cw5n1h2txyewy"
+
+
+
+
+
+Komal RA ref: SR-167748

@@ -5,6 +5,10 @@
 /bin
 /dist
 
+#react modules
+/app/node_modules
+/app/build
+
 # Neutralinojs related files
 .storage
 *.log
